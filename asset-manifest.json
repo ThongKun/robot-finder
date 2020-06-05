@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot-finder/static/css/main.a142fb8a.chunk.css",
+    "main.js": "/robot-finder/static/js/main.827d52e8.chunk.js",
+    "main.js.map": "/robot-finder/static/js/main.827d52e8.chunk.js.map",
+    "runtime~main.js": "/robot-finder/static/js/runtime~main.adaf2559.js",
+    "runtime~main.js.map": "/robot-finder/static/js/runtime~main.adaf2559.js.map",
+    "static/js/2.b67fbdca.chunk.js": "/robot-finder/static/js/2.b67fbdca.chunk.js",
+    "static/js/2.b67fbdca.chunk.js.map": "/robot-finder/static/js/2.b67fbdca.chunk.js.map",
+    "index.html": "/robot-finder/index.html",
+    "precache-manifest.ee83ca225a5adf830c94b84bb40fb66e.js": "/robot-finder/precache-manifest.ee83ca225a5adf830c94b84bb40fb66e.js",
+    "service-worker.js": "/robot-finder/service-worker.js",
+    "static/css/main.a142fb8a.chunk.css.map": "/robot-finder/static/css/main.a142fb8a.chunk.css.map"
+  }
+}
